@@ -428,3 +428,4 @@ window["__electronApi"] = electronApi;
 window["__isElectron"] = true;
 window["__platform"] = process_1.default.platform;
 //# sourceMappingURL=preload.js.map
+ require("./notion-zh_CN") // 添加该行
